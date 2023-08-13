@@ -1,0 +1,11 @@
+"Titulo"='Gramatica de declaracion de tipos'
+"Author"='Georgina Andrea Mendez'
+"Version"='1.0'
+"About"='Es una gramatica de declaracion de tipos'
+Identificador = {Letter}{AlphaNumeric}*
+"Start Symbol" = <S>
+             
+<S> ::= <D> | <S><D>
+<D> ::= <T><V>';'
+<T> ::= 'int' | 'float' | 'String' | 'char'
+<V> ::= <V> ',' Identificador | Identificador

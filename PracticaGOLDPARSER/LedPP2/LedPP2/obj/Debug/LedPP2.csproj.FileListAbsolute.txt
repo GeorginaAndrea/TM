@@ -1,0 +1,6 @@
+C:\Users\jorge\OneDrive\Documentos\SEMESTRE ENERO-JUNIO\QUINTO SEMESTRE\TEORIAMATEMATICA\PracticaGOLDPARSER\LedPP2\LedPP2\obj\Debug\LedPP2.csproj.AssemblyReference.cache
+C:\Users\jorge\OneDrive\Documentos\SEMESTRE ENERO-JUNIO\QUINTO SEMESTRE\TEORIAMATEMATICA\PracticaGOLDPARSER\LedPP2\LedPP2\obj\Debug\LedPP2.csproj.SuggestedBindingRedirects.cache
+C:\Users\jorge\OneDrive\Documentos\SEMESTRE ENERO-JUNIO\QUINTO SEMESTRE\TEORIAMATEMATICA\PracticaGOLDPARSER\LedPP2\LedPP2\obj\Debug\LedPP2.Form1.resources
+C:\Users\jorge\OneDrive\Documentos\SEMESTRE ENERO-JUNIO\QUINTO SEMESTRE\TEORIAMATEMATICA\PracticaGOLDPARSER\LedPP2\LedPP2\obj\Debug\LedPP2.Properties.Resources.resources
+C:\Users\jorge\OneDrive\Documentos\SEMESTRE ENERO-JUNIO\QUINTO SEMESTRE\TEORIAMATEMATICA\PracticaGOLDPARSER\LedPP2\LedPP2\obj\Debug\LedPP2.csproj.GenerateResource.cache
+C:\Users\jorge\OneDrive\Documentos\SEMESTRE ENERO-JUNIO\QUINTO SEMESTRE\TEORIAMATEMATICA\PracticaGOLDPARSER\LedPP2\LedPP2\obj\Debug\LedPP2.csproj.CoreCompileInputs.cache

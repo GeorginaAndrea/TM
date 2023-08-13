@@ -1,0 +1,10 @@
+﻿"Name" = 'practica2'
+"Author" = 'Georgina Andrea Méndez hernández'
+"Version" = '1.0'
+"About" = 'gramatica'
+
+"Start Symbol" = <S>
+             
+<S>::= 'a' <B> | 'b' <A>
+<A>::= 'a' | 'a' <S> | 'b' <A> <A>
+<B>::= 'b' | 'b' <S> | 'a' <B> <B>

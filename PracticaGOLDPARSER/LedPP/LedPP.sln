@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LedPP", "LedPP\LedPP.csproj", "{C0D17818-7CFD-4B0F-A5AA-64454D3E157D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C0D17818-7CFD-4B0F-A5AA-64454D3E157D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0D17818-7CFD-4B0F-A5AA-64454D3E157D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0D17818-7CFD-4B0F-A5AA-64454D3E157D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0D17818-7CFD-4B0F-A5AA-64454D3E157D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0B8FA827-C15F-4AAF-87EE-B3D0D79A0C78}
+	EndGlobalSection
+EndGlobal

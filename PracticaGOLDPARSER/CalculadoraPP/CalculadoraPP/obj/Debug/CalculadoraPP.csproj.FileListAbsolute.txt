@@ -1,0 +1,6 @@
+C:\Users\jorge\OneDrive\Documentos\SEMESTRE ENERO-JUNIO\QUINTO SEMESTRE\TEORIAMATEMATICA\PracticaGOLDPARSER\CalculadoraPP\CalculadoraPP\obj\Debug\CalculadoraPP.csproj.AssemblyReference.cache
+C:\Users\jorge\OneDrive\Documentos\SEMESTRE ENERO-JUNIO\QUINTO SEMESTRE\TEORIAMATEMATICA\PracticaGOLDPARSER\CalculadoraPP\CalculadoraPP\obj\Debug\CalculadoraPP.csproj.SuggestedBindingRedirects.cache
+C:\Users\jorge\OneDrive\Documentos\SEMESTRE ENERO-JUNIO\QUINTO SEMESTRE\TEORIAMATEMATICA\PracticaGOLDPARSER\CalculadoraPP\CalculadoraPP\obj\Debug\CalculadoraPP.Form1.resources
+C:\Users\jorge\OneDrive\Documentos\SEMESTRE ENERO-JUNIO\QUINTO SEMESTRE\TEORIAMATEMATICA\PracticaGOLDPARSER\CalculadoraPP\CalculadoraPP\obj\Debug\CalculadoraPP.Properties.Resources.resources
+C:\Users\jorge\OneDrive\Documentos\SEMESTRE ENERO-JUNIO\QUINTO SEMESTRE\TEORIAMATEMATICA\PracticaGOLDPARSER\CalculadoraPP\CalculadoraPP\obj\Debug\CalculadoraPP.csproj.GenerateResource.cache
+C:\Users\jorge\OneDrive\Documentos\SEMESTRE ENERO-JUNIO\QUINTO SEMESTRE\TEORIAMATEMATICA\PracticaGOLDPARSER\CalculadoraPP\CalculadoraPP\obj\Debug\CalculadoraPP.csproj.CoreCompileInputs.cache

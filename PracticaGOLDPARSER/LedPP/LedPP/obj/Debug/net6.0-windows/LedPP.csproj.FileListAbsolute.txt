@@ -1,0 +1,17 @@
+C:\Users\jorge\OneDrive\Documentos\SEMESTRE ENERO-JUNIO\QUINTO SEMESTRE\TEORIAMATEMATICA\PracticaGOLDPARSER\LedPP\LedPP\bin\Debug\net6.0-windows\LedPP.exe
+C:\Users\jorge\OneDrive\Documentos\SEMESTRE ENERO-JUNIO\QUINTO SEMESTRE\TEORIAMATEMATICA\PracticaGOLDPARSER\LedPP\LedPP\bin\Debug\net6.0-windows\LedPP.deps.json
+C:\Users\jorge\OneDrive\Documentos\SEMESTRE ENERO-JUNIO\QUINTO SEMESTRE\TEORIAMATEMATICA\PracticaGOLDPARSER\LedPP\LedPP\bin\Debug\net6.0-windows\LedPP.runtimeconfig.json
+C:\Users\jorge\OneDrive\Documentos\SEMESTRE ENERO-JUNIO\QUINTO SEMESTRE\TEORIAMATEMATICA\PracticaGOLDPARSER\LedPP\LedPP\bin\Debug\net6.0-windows\LedPP.dll
+C:\Users\jorge\OneDrive\Documentos\SEMESTRE ENERO-JUNIO\QUINTO SEMESTRE\TEORIAMATEMATICA\PracticaGOLDPARSER\LedPP\LedPP\bin\Debug\net6.0-windows\LedPP.pdb
+C:\Users\jorge\OneDrive\Documentos\SEMESTRE ENERO-JUNIO\QUINTO SEMESTRE\TEORIAMATEMATICA\PracticaGOLDPARSER\LedPP\LedPP\obj\Debug\net6.0-windows\LedPP.csproj.AssemblyReference.cache
+C:\Users\jorge\OneDrive\Documentos\SEMESTRE ENERO-JUNIO\QUINTO SEMESTRE\TEORIAMATEMATICA\PracticaGOLDPARSER\LedPP\LedPP\obj\Debug\net6.0-windows\LedPP.Form1.resources
+C:\Users\jorge\OneDrive\Documentos\SEMESTRE ENERO-JUNIO\QUINTO SEMESTRE\TEORIAMATEMATICA\PracticaGOLDPARSER\LedPP\LedPP\obj\Debug\net6.0-windows\LedPP.csproj.GenerateResource.cache
+C:\Users\jorge\OneDrive\Documentos\SEMESTRE ENERO-JUNIO\QUINTO SEMESTRE\TEORIAMATEMATICA\PracticaGOLDPARSER\LedPP\LedPP\obj\Debug\net6.0-windows\LedPP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jorge\OneDrive\Documentos\SEMESTRE ENERO-JUNIO\QUINTO SEMESTRE\TEORIAMATEMATICA\PracticaGOLDPARSER\LedPP\LedPP\obj\Debug\net6.0-windows\LedPP.AssemblyInfoInputs.cache
+C:\Users\jorge\OneDrive\Documentos\SEMESTRE ENERO-JUNIO\QUINTO SEMESTRE\TEORIAMATEMATICA\PracticaGOLDPARSER\LedPP\LedPP\obj\Debug\net6.0-windows\LedPP.AssemblyInfo.cs
+C:\Users\jorge\OneDrive\Documentos\SEMESTRE ENERO-JUNIO\QUINTO SEMESTRE\TEORIAMATEMATICA\PracticaGOLDPARSER\LedPP\LedPP\obj\Debug\net6.0-windows\LedPP.csproj.CoreCompileInputs.cache
+C:\Users\jorge\OneDrive\Documentos\SEMESTRE ENERO-JUNIO\QUINTO SEMESTRE\TEORIAMATEMATICA\PracticaGOLDPARSER\LedPP\LedPP\obj\Debug\net6.0-windows\LedPP.dll
+C:\Users\jorge\OneDrive\Documentos\SEMESTRE ENERO-JUNIO\QUINTO SEMESTRE\TEORIAMATEMATICA\PracticaGOLDPARSER\LedPP\LedPP\obj\Debug\net6.0-windows\refint\LedPP.dll
+C:\Users\jorge\OneDrive\Documentos\SEMESTRE ENERO-JUNIO\QUINTO SEMESTRE\TEORIAMATEMATICA\PracticaGOLDPARSER\LedPP\LedPP\obj\Debug\net6.0-windows\LedPP.pdb
+C:\Users\jorge\OneDrive\Documentos\SEMESTRE ENERO-JUNIO\QUINTO SEMESTRE\TEORIAMATEMATICA\PracticaGOLDPARSER\LedPP\LedPP\obj\Debug\net6.0-windows\LedPP.genruntimeconfig.cache
+C:\Users\jorge\OneDrive\Documentos\SEMESTRE ENERO-JUNIO\QUINTO SEMESTRE\TEORIAMATEMATICA\PracticaGOLDPARSER\LedPP\LedPP\obj\Debug\net6.0-windows\ref\LedPP.dll

@@ -1,0 +1,27 @@
+! Welcome to GOLD Parser Builder 5.2
+
+"Name" = 'Calculadora'
+"Author" = 'Luis Eduardo Gonzalez Guillen'
+"Version" = '1.0'
+"About" = 'Calculadora que suma, resta, multiplica y divide'
+
+Entero ={Number}+
+Real = {Number}+'.'{Number}+
+
+"Start Symbol" = <E>
+
+<E> ::= <E> '+' <T> | <E> '-' <T> | <T>
+
+<T> ::= <T> '*' <F> | <T> '/' <F> | <F>
+
+<F> ::= '(' <E> ')' | Entero | Real | <FUNC> | <SQRT> | <LN> | <FACT>
+     
+<FUNC> ::= <F>sin<F> | <F>tan<F> | sin<F> | tan<F>
+        
+<SQRT> ::= sqrt<E>
+        
+<LN> ::= ln<E>
+      
+<FACT> ::= Entero'!'
+      
+
